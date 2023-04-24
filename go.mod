@@ -1,4 +1,4 @@
-module github.com/Extrakyo/line-account-link
+module github.com/Reymer/lintbot_account_link
 
 go 1.19
 
