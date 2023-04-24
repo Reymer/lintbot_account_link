@@ -1,4 +1,4 @@
-module github.com/Reymer/linebot_account_link
+module github.com/Reymer/lintbot_account_link
 
 go 1.15
 
