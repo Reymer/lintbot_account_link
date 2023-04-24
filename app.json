@@ -1,7 +1,7 @@
 {
   "name": "line-account-link",
   "description": "Line account line sample code",
-  "repository": "https://github.com/kkdai/line-account-link",
+  "repository": "https://github.com/Reymer/lintbot_account_link",
   "keywords": ["Line", "go", "static"],
   "buildpacks": [
     {
