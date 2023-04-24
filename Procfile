@@ -1,2 +1,2 @@
-web: line-account-link
+web: linebot-foodler
 
