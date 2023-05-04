@@ -40,7 +40,7 @@ func listCust(w http.ResponseWriter, r *http.Request) {
 // WEB: For login (just for demo)
 func login(w http.ResponseWriter, r *http.Request) {
 
-	db, err := sql.Open("mysql", "canis:vz3s10cdDtkU1BRv@tcp(103.200.113.92)/foodler")
+	db, err := sql.Open("mysql", "")
 	if err != nil {
 		panic(err.Error())
 	}
