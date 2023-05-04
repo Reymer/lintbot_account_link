@@ -41,7 +41,7 @@ func callbackHandler(w http.ResponseWriter, r *http.Request) {
 		}
 		return
 	}
-	db, err := sql.Open("mysql", "canis:vz3s10cdDtkU1BRv@tcp(103.200.113.92)/foodler")
+	db, err := sql.Open("mysql", "")
 	if err != nil {
 		panic(err.Error())
 	}
